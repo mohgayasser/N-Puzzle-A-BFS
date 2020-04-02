@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\Npuzzle\bin\Debug\Npuzzle.exe.config
+C:\Users\user\Desktop\Npuzzle\bin\Debug\Npuzzle.exe
+C:\Users\user\Desktop\Npuzzle\bin\Debug\Npuzzle.pdb
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.exe
+C:\Users\user\Desktop\Npuzzle\obj\Debug\Npuzzle.pdb
+C:\Users\user\Desktop\Npuzzle -(222)\bin\Debug\Npuzzle.exe.config
+C:\Users\user\Desktop\Npuzzle -(222)\bin\Debug\Npuzzle.exe
+C:\Users\user\Desktop\Npuzzle -(222)\bin\Debug\Npuzzle.pdb
+C:\Users\user\Desktop\Npuzzle -(222)\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Npuzzle -(222)\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Npuzzle -(222)\obj\Debug\Npuzzle.exe
+C:\Users\user\Desktop\Npuzzle -(222)\obj\Debug\Npuzzle.pdb
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\obj\Debug\Npuzzle.csprojAssemblyReference.cache
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\obj\Debug\Npuzzle.exe
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\obj\Debug\Npuzzle.pdb
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\bin\Debug\Npuzzle.exe.config
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\bin\Debug\Npuzzle.exe
+D:\FCIS\FCIS 3\Algorithms\Projects\NM2\bin\Debug\Npuzzle.pdb
+C:\Users\AA\Desktop\NM2\bin\Debug\Npuzzle.exe.config
+C:\Users\AA\Desktop\NM2\bin\Debug\Npuzzle.exe
+C:\Users\AA\Desktop\NM2\bin\Debug\Npuzzle.pdb
+C:\Users\AA\Desktop\NM2\obj\Debug\Npuzzle.csprojResolveAssemblyReference.cache
+C:\Users\AA\Desktop\NM2\obj\Debug\Npuzzle.csproj.CoreCompileInputs.cache
+C:\Users\AA\Desktop\NM2\obj\Debug\Npuzzle.exe
+C:\Users\AA\Desktop\NM2\obj\Debug\Npuzzle.pdb
